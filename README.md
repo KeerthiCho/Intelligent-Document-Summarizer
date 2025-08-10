@@ -2,6 +2,8 @@
 AI-powered summarization tool that condenses text from local files or web URLs using state-of-the-art NLP models. Built with Python, Hugging Face Transformers, and Newspaper3k, supporting adjustable summary lengths for quick content understanding.
 Alright — here’s your **complete README.md** with everything (description, usage, requirements, .gitignore note, and license info) so you can just copy–paste into PyCharm and commit.
 
+Download the entire project here : https://drive.google.com/file/d/1ndaFejbgBvyn_CjoWm70pl8JHpUuz3h4/view?usp=sharing
+
 ---
 
 ````markdown
